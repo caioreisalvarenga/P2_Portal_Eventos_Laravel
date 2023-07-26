@@ -47,6 +47,6 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-Feito com ♥ by Vanderlei
+Feito com ♥ by Caio Alvarenga
 
 # hdc-events
